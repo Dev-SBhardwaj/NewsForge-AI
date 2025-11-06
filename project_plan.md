@@ -1,0 +1,1 @@
+$(cat "d:\Socials\Instagram\News\project_plan.md")
