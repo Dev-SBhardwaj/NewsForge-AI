@@ -146,11 +146,3 @@ beautifulsoup4
 - User authentication for multi-user support
 - Mobile app interface
 
-## License
-[Specify open-source license, e.g., MIT License]
-
-## Contributing
-[Guidelines for contributors]
-
-## Support
-[Contact information and support channels]
